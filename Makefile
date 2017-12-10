@@ -73,3 +73,5 @@ pdf:
 
 cleandocs:
 	@make -C docs clean
+
+include slankdev.mk

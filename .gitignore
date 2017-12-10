@@ -1,3 +1,5 @@
+
+app/x86_64-native-linuxapp-gcc
 lib/cli/x86_64-native-linuxapp-gcc
 lib/common/x86_64-native-linuxapp-gcc
 lib/lua/lua-5.3.4.tar.gz
